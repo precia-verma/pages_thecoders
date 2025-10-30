@@ -1,9 +1,9 @@
 // Mansion Level 2 Game with WASD character movement 
 (function () {
   const bgPaths = [
-    'assets/images/mansion-untitled.jpeg',
+    '../../assets/images/mansion-untitled.jpeg',
     '/student/assets/images/mansion-untitled.jpeg',
-    './assets/images/mansion-untitled.jpeg',
+    '../../assets/images/mansion-untitled.jpeg',
     '/student/images/haunted-mansion-battle-map-30x36-v0-u37w8jh2gfud1.webp'
   ];
 
@@ -117,12 +117,12 @@
 
   function loadPlayerSprites(onComplete) {
     const spritePaths = [
-      'assets/images/character_frame_1.png',
-      'assets/images/character_frame_2.png',
-      'assets/images/character_frame_3.png',
-      'assets/images/character_frame_4.png',
-      'assets/images/character_frame_5.png',
-      'assets/images/character_frame_6.png'
+      '../../assets/images/character_frame_1.png',
+      '../../assets/images/character_frame_2.png',
+      '../../assets/images/character_frame_3.png',
+      '../../assets/images/character_frame_4.png',
+      '../../assets/images/character_frame_5.png',
+      '../../assets/images/character_frame_6.png'
     ];
 
     console.log('🎮 Loading 6 individual player sprites...');

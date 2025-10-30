@@ -44,6 +44,6 @@ title: "Mansion Level 2 - WASD Game"
         <!-- Canvas will be added here by the script -->
     </div>
     
-    <script src="/assets/js/mansionLevel2.js"></script>
+    <script src="../../assets/js/mansionGame/mansionLevel2.js"></script>
 </body>
 </html>
