@@ -1,3 +1,9 @@
+---
+layout: null
+permalink: /mansion2
+title: "Mansion Level 2 - WASD Game"
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,6 +44,6 @@
         <!-- Canvas will be added here by the script -->
     </div>
     
-    <script src="assets/js/mansionLevel2.js"></script>
+    <script src="/assets/js/mansionLevel2.js"></script>
 </body>
 </html>
