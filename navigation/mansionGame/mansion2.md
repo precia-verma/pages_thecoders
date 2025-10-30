@@ -3,7 +3,6 @@ layout: null
 permalink: /mansion2/
 title: "Mansion Level 2 - WASD Game"
 ---
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
