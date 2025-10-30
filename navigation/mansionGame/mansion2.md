@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /mansion2
+permalink: /mansion2/
 title: "Mansion Level 2 - WASD Game"
 ---
 
